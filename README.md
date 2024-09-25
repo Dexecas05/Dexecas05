@@ -1,8 +1,7 @@
 ## Sobre mí:
 
-Soy un profesional con sólida formación en derecho y finanzas, con amplia experiencia en ventas, gestión administrativa y legales, con foco en análisis, confección de informes y resolución de situaciones complejas. Sumando certificaciones en análisis de datos y herramientas de programación, cuento con un perfil híbrido que me permite ofrecer una perspectiva única para el abordaje de múltiples desafíos empresariales.
-
-Con un enfoque proactivo y versátil, aspiro a contribuir para el crecimiento organizacional y la optimización de procesos, gracias a mis aptitudes en gestión administrativa, análisis estratégico de datos y desarrollo de informes detallados para la toma de decisiones informadas.
+¡Hola! Mi nombre es Exequiel Castillo y actualmente vivo en Tucumán, Argentina. Soy Analista de Datos y estoy en carrera para convertirme en desarrollador Back End. También tengo dominio avanzado del idioma Inglés.
+Me gustan mucho los deportes, la meditación y el mindfullness. Disfruto de la lectura y de las reuniones con familia y amigos.
 
 
 <!--
