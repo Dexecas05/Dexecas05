@@ -1,6 +1,6 @@
 ## Sobre mí:
 
-¡Hola! Mi nombre es Exequiel Castillo y actualmente vivo en Tucumán, Argentina. Soy Analista de Datos y estoy en carrera para convertirme en desarrollador Back End. También tengo dominio avanzado del idioma Inglés.
+¡Hola! Mi nombre es Exequiel Castillo y actualmente vivo en Argentina. Soy Analista de Datos y programador Back End. También tengo dominio avanzado del idioma Inglés.
 Me gustan mucho los deportes, la meditación y el mindfullness. Disfruto de la lectura y de las reuniones con familia y amigos.
 
 
