@@ -1,7 +1,9 @@
-## Sobre mí:
+## About me:
 
-¡Hola! Mi nombre es Exequiel Castillo y actualmente vivo en Brasil. Soy Analista de Datos y programador Back End. También tengo dominio avanzado del idioma Inglés.
-Me gustan mucho los deportes, la meditación y el mindfullness. Disfruto de la lectura y de las reuniones con familia y amigos.
+Hello! My name is Darío Castillo. I'm Argentinian, and I am currently living in Brazil.
+I am a trilingual data analyst and a backend programmer.
+Along my career I have developed a bunch of soft skills, and the one I value the most is assertive communication, as it enhances the possibility to translate complex and stressful situations into simple solutions and be a nexus between people with different backgrounds.
+If you'd like to have consistent solutions and a good understanding, just get to know me.
 
 
 <!--
